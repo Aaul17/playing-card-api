@@ -10,4 +10,4 @@ We are assuming that you already have Ruby 2.3.7 installed. In order to correctl
 
 * Make sure to 'bundle install' to install all of the program's gems and then run 'rails db:migrate && rails db:seed'.
 
-* Last but not least, type 'rails s' to start up the API. It should be running through port 3000.
+* Last but not least, type 'rails s' to start up the API. It should be running through port 3000. If you wish to view all of the created decks in Google Chrome, navigate to http://localhost:3000/api/v1/decks.
